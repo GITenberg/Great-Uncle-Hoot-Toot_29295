@@ -1,0 +1,40 @@
+_repo: Great-Uncle-Hoot-Toot_29295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2009-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Great-uncles -- Juvenile fiction'
+- !lcsh 'Intergenerational relations -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcsh 'Selfishness -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Farmers -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Letters -- Juvenile fiction'
+title: Great Uncle Hoot-Toot
+url: http://www.gutenberg.org/ebooks/29295
